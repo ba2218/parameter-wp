@@ -1,87 +1,63 @@
 		<!-- KICK ASS SLIDER -->
 		<div class="container">
-				<!-- Grid -->
-				<section class="classy-slider">
-					<!-- <div class="slide slide--current" data-content="content-1">
-						<div class="slide__mover">
-							<div class="zoomer flex-center">
-								<img class="zoomer__image" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/iphone.png" alt="iPhone" />
-								<div class="preview">
-									<img src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/iphone-content-preview.png" alt="iPhone app preview" />
-									<div class="zoomer__area zoomer__area--size-2"></div>
-								</div>
+			<!-- Grid -->
+			<section class="classy-slider">
+				<div class="slide slide--current" data-content="content-1">
+					<div class="slide__mover">
+						<div class="zoomer flex-center">
+							<img class="zoomer__image slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac.png" alt="iMac" />
+							<div class="preview">
+								<img class="slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac-content-preview-bootstrap.jpg" alt="iMac app preview" />
+								<div class="zoomer__area zoomer__area--size-5"></div>
 							</div>
 						</div>
-						<h2 class="slide__title"><span>BOOTSTRAP COMPOST</span> Site Re-Design</h2>
 					</div>
-					<div class="slide" data-content="content-2">
-						<div class="slide__mover">
-							<div class="zoomer flex-center">
-								<img class="zoomer__image" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad.png" alt="iPad Mini" />
-								<div class="preview">
-									<img src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad-content-preview.png" alt="iPad Mini app preview" />
-									<div class="zoomer__area zoomer__area--size-4"></div>
-								</div>
+					<h2 class="slide__title"><span>Bootstrap Compost</span> Website Redesign</h2>
+				</div>
+				<div class="slide" data-content="content-2">
+					<div class="slide__mover">
+						<div class="zoomer flex-center">
+							<img class="zoomer__image slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook.png" alt="Macbook" />
+							<div class="preview">
+								<img class="slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook-content-preview-rmbl.jpg" alt="macbook app preview" />
+								<div class="zoomer__area zoomer__area--size-4"></div>
 							</div>
 						</div>
-						<h2 class="slide__title"><span>The Fantastic</span> iPad Mini</h2>
-					</div> -->
-					<div class="slide slide--current" data-content="content-1">
-						<div class="slide__mover">
-							<div class="zoomer flex-center">
-								<img class="zoomer__image slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac.png" alt="iMac" />
-								<div class="preview">
-									<img class="slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac-content-preview-bootstrap.jpg" alt="iMac app preview" />
-									<div class="zoomer__area zoomer__area--size-5"></div>
-								</div>
-							</div>
-						</div>
-						<h2 class="slide__title"><span>Bootstrap Compost</span> Website Redesign</h2>
 					</div>
-					<div class="slide" data-content="content-2">
-						<div class="slide__mover">
-							<div class="zoomer flex-center">
-								<img class="zoomer__image slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook.png" alt="Macbook" />
-								<div class="preview">
-									<img class="slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook-content-preview-rmbl.jpg" alt="macbook app preview" />
-									<div class="zoomer__area zoomer__area--size-4"></div>
-								</div>
+					<h2 class="slide__title"><span>Banana Boat</span> runmoreburnless.com</h2>
+				</div>
+				<div class="slide" data-content="content-3">
+					<div class="slide__mover">
+						<div class="zoomer flex-center">
+							<img class="zoomer__image slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac.png" alt="iMac" />
+							<div class="preview">
+								<img class="slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac-content-preview-jags.jpg" alt="iMac app preview" />
+								<div class="zoomer__area zoomer__area--size-5"></div>
 							</div>
 						</div>
-						<h2 class="slide__title"><span>Banana Boat</span> runmoreburnless.com</h2>
 					</div>
-					<div class="slide" data-content="content-3">
-						<div class="slide__mover">
-							<div class="zoomer flex-center">
-								<img class="zoomer__image slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac.png" alt="iMac" />
-								<div class="preview">
-									<img class="slider-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac-content-preview-jags.jpg" alt="iMac app preview" />
-									<div class="zoomer__area zoomer__area--size-5"></div>
-								</div>
+					<h2 class="slide__title"><span>Jacksonville Jaguars</span> Duval Dash</h2>
+				</div> 
+				<div class="slide" data-content="content-4">
+					<div class="slide__mover">
+						<div class="zoomer flex-center">
+							<img class="zoomer__image" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad.png" alt="iPad Mini" />
+							<div class="preview">
+								<img src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad-content-preview-jags2.jpg" alt="iPad Mini app preview" />
+								<div class="zoomer__area zoomer__area--size-4"></div>
 							</div>
 						</div>
-						<h2 class="slide__title"><span>Jacksonville Jaguars</span> Duval Dash</h2>
-					</div> 
-					<div class="slide" data-content="content-4">
-						<div class="slide__mover">
-							<div class="zoomer flex-center">
-								<img class="zoomer__image" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad.png" alt="iPad Mini" />
-								<div class="preview">
-									<img src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad-content-preview-jags2.jpg" alt="iPad Mini app preview" />
-									<div class="zoomer__area zoomer__area--size-4"></div>
-								</div>
-							</div>
-						</div>
-						<h2 class="slide__title"><span>Jacksonville Jaguars</span> River City Rollers</h2>
-					</div> 
-					<nav class="slider__nav">
-						<button class="slider-button button--nav-prev"><i class="slider-icon icon--arrow-left"></i><span class="text-hidden">Previous product</span></button>
-						<button class="slider-button button--zoom"><i class="slider-icon icon--zoom"></i><span class="text-hidden">View details</span></button>
-						<button class="slider-button button--nav-next"><i class="slider-icon icon--arrow-right"></i><span class="text-hidden">Next product</span></button>
-					</nav>
-				</section>
-				<!-- /slider-->
-				<section class="content">
+					</div>
+					<h2 class="slide__title"><span>Jacksonville Jaguars</span> River City Rollers</h2>
+				</div> 
+				<nav class="slider__nav">
+					<button class="slider-button button--nav-prev"><i class="slider-icon icon--arrow-left"></i><span class="text-hidden">Previous product</span></button>
+					<button class="slider-button button--zoom"><i class="slider-icon icon--zoom"></i><span class="text-hidden">View details</span></button>
+					<button class="slider-button button--nav-next"><i class="slider-icon icon--arrow-right"></i><span class="text-hidden">Next product</span></button>
+				</nav>
+			</section>
+			<!-- /slider-->
+			<section class="content">
 					<!-- <div class="content__item" id="content-1">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/iphone-content.png" alt="Apple Watch Content" />
 						<div class="content__item-inner">

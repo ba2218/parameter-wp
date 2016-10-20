@@ -3954,13 +3954,23 @@ GENERAL STYLES
 /*********************
 LINK STYLES
 *********************/
-a:link, a:visited:link {
+a:link,
+a:visited:link {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3); }
 
 /*********************
 H1, H2, H3, H4, H5 P STYLES
 *********************/
-h1 a, .h1 a, h2 a, .h2 a, h3 a, .h3 a, h4 a, .h4 a, h5 a, .h5 a {
+h1 a,
+.h1 a,
+h2 a,
+.h2 a,
+h3 a,
+.h3 a,
+h4 a,
+.h4 a,
+h5 a,
+.h5 a {
   text-decoration: none; }
 
 /*********************
@@ -3982,7 +3992,8 @@ NAVIGATION STYLES
   .off-canvas-list ul .dropdown {
     margin-left: 20px; }
 
-.top-bar .top-bar-left, .top-bar .top-bar-right {
+.top-bar .top-bar-left,
+.top-bar .top-bar-right {
   width: initial; }
 
 /*********************
@@ -4002,23 +4013,27 @@ POSTS & CONTENT STYLES
   max-width: 100%;
   height: auto; }
 
-.entry-content .alignleft, .entry-content img.alignleft {
+.entry-content .alignleft,
+.entry-content img.alignleft {
   margin-right: 1.5em;
   display: inline;
   float: left; }
 
-.entry-content .alignright, .entry-content img.alignright {
+.entry-content .alignright,
+.entry-content img.alignright {
   margin-left: 1.5em;
   display: inline;
   float: right; }
 
-.entry-content .aligncenter, .entry-content img.aligncenter {
+.entry-content .aligncenter,
+.entry-content img.aligncenter {
   margin-right: auto;
   margin-left: auto;
   display: block;
   clear: both; }
 
-.entry-content video, .entry-content object {
+.entry-content video,
+.entry-content object {
   max-width: 100%;
   height: auto; }
 
@@ -4762,6 +4777,99 @@ i.icon--arrow-left:before {
     width: 100%; }
   .gallery-grid a:nth-child(even) {
     margin: 0; } }
+
+/**************************/
+/* GALLERY OVERLAY */
+/**************************/
+.overlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(255, 204, 0, 0.9);
+  z-index: 9999; }
+
+/* Overlay closing cross */
+.overlay .overlay-close {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  overflow: hidden;
+  border: none;
+  background: url(http://tympanus.net/Development/FullscreenOverlayStyles/img/cross.png) no-repeat center center;
+  text-indent: 200%;
+  color: transparent;
+  outline: none;
+  z-index: 100; }
+
+/* Menu style */
+.overlay nav {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  height: 60%;
+  font-size: 54px;
+  transform: translateY(-50%); }
+
+.overlay ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  display: inline-block;
+  height: 100%;
+  position: relative; }
+
+.overlay ul li {
+  display: block;
+  height: 20%;
+  height: calc(100% / 5);
+  min-height: 54px; }
+
+.overlay ul li a {
+  font-weight: 300;
+  display: block;
+  color: #fff;
+  transition: color 0.2s; }
+
+.overlay ul li a:hover,
+.overlay ul li a:focus {
+  color: #e3fcb1; }
+
+/* Effects */
+.overlay-hugeinc {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s, visibility 0s 0.5s; }
+
+.overlay-hugeinc.open {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.5s; }
+
+.overlay-hugeinc nav {
+  perspective: 1200px; }
+
+.overlay-hugeinc nav ul {
+  opacity: 0.4;
+  transform: translateY(-25%) rotateX(35deg);
+  transition: transform 0.5s, opacity 0.5s; }
+
+.overlay-hugeinc.open nav ul {
+  opacity: 1;
+  transform: rotateX(0deg); }
+
+.overlay-hugeinc.close nav ul {
+  transform: translateY(25%) rotateX(-35deg); }
+
+@media screen and (max-height: 30.5em) {
+  .overlay nav {
+    height: 70%;
+    font-size: 34px; }
+  .overlay ul li {
+    min-height: 34px; } }
 
 /******************************************************************
 
