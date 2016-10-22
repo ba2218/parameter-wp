@@ -4,88 +4,88 @@
 	<section id="gallery-grid" class="gallery-grid clearfix">
 		<a href="#" class="trigger-overlay" data-overlay="layer1" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/1.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-jags.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Crystalline</h2>
-					<p>Soko radicchio bunya nuts gram dulse.</p>
+					<h2>Duval Dash</h2>
+					<p>Jacksonville Jaguars</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer2" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/2.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-bootstrap.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Cacophony</h2>
-					<p>Two greens tigernut soybean radish.</p>
+					<h2>Bootstrap Compost</h2>
+					<p>Site Redesign</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer3" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/3.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-pc.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Languid</h2>
-					<p>Beetroot water spinach okra water.</p>
+					<h2>Pretzel Crisps</h2>
+					<p>PC Summer Fun</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer4" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/4.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-rmbl.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Serene</h2>
-					<p>Water spinach arugula pea tatsoi.</p>
+					<h2>Banana Boat</h2>
+					<p>runmoreburnless.com</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer5" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/5.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-transformers.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Nebulous</h2>
-					<p>Pea horseradish azuki bean lettuce.</p>
+					<h2>Hasbro</h2>
+					<p>Transformers Stomp and Chomp</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer6" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/6.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-platformer.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Iridescent</h2>
-					<p>A grape silver beet watercress potato.</p>`
+					<h2>Flavortron Labs</h2>
+					<p>Flavortron Platformer</p>`
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer7" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/7.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-fbnyc.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Resonant</h2>
-					<p>Chickweed okra pea winter purslane.</p>
+					<h2>FBNYC</h2>
+					<p>Choose One Thing</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>
 		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer8" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
-				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/8.png" />
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-boden.jpg" />
 				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
 				<figcaption>
-					<h2>Zenith</h2>
-					<p>Salsify taro catsear garlic gram.</p>
+					<h2>Boden</h2>
+					<p>Boden Mini Octopus</p>
 					<button class="gallery-button">View</button>
 				</figcaption>
 			</figure>

@@ -4437,9 +4437,10 @@ img.slider-img {
   padding: 2em 0;
   pointer-events: none;
   opacity: 0;
-  color: #fff;
+  color: #666;
   -ms-flex-align: center;
-  align-items: center; }
+  align-items: center;
+  background-color: #ffcc00; }
 
 .content__item--current {
   pointer-events: auto;
