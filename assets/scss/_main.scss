@@ -1327,6 +1327,7 @@ i.icon--arrow-left:before {
     visibility: visible;
     -webkit-transition: opacity 0.5s;
     transition: opacity 0.5s;
+    overflow: scroll;
 }
 
 .overlay-hugeinc nav {

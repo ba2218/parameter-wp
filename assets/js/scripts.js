@@ -148,6 +148,7 @@ jQuery(document).ready(function() {
         if (classie.has(overlay, 'open')) {
             classie.remove(overlay, 'open');
             classie.add(overlay, 'close');
+            document.querySelector('body').style.overflow="scroll";
             var onEndTransitionFn = function(ev) {
                 if (support.transitions) {
                     if (ev.propertyName !== 'visibility') return;
@@ -161,6 +162,7 @@ jQuery(document).ready(function() {
                 onEndTransitionFn();
         } else if (!classie.has(overlay, 'close')) {
             classie.add(overlay, 'open');
+            document.querySelector('body').style.overflow="hidden";
         }
     }
 

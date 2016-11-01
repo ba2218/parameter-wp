@@ -4848,7 +4848,8 @@ i.icon--arrow-left:before {
 .overlay-hugeinc.open {
   opacity: 1;
   visibility: visible;
-  transition: opacity 0.5s; }
+  transition: opacity 0.5s;
+  overflow: scroll; }
 
 .overlay-hugeinc nav {
   perspective: 1200px; }

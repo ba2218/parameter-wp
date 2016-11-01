@@ -95,25 +95,113 @@
 
 <div class="overlay overlay-hugeinc" id="layer1">
 	<button type="button" class="overlay-close">Close</button>
-</div>
+<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
+					</div>
 <div class="overlay overlay-hugeinc" id="layer2">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>
 <div class="overlay overlay-hugeinc" id="layer3">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>
 <div class="overlay overlay-hugeinc" id="layer4">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>
 <div class="overlay overlay-hugeinc" id="layer5">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>
 <div class="overlay overlay-hugeinc" id="layer6">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>
 <div class="overlay overlay-hugeinc" id="layer7">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>
 <div class="overlay overlay-hugeinc" id="layer8">
 	<button type="button" class="overlay-close">Close</button>
+	<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-full medium-6 columns">
+				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
 </div>

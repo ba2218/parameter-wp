@@ -79,37 +79,37 @@
 					<div class="content__item" id="content-3">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook-content-jags.jpg" alt="MacBook Content" />
 						<div class="content__item-inner">
-							<h2>The MacBook</h2>
-							<h3>It's the future of the notebook</h3>
-							<p>With the new MacBook, we set out to do the impossible: engineer a full-size experience into the lightest and most compact Mac notebook ever. That meant reimagining every element to make it not only lighter and thinner but also better. The result is more than just a new notebook. It's the future of the notebook.</p>
-							<p><a href="https://www.apple.com/macbook/design/">Learn more about the design &xrarr;</a></p>
+							<h2>Lorem ipsum.</h2>
+							<h3>Lorem ipsum dolor sit.</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt aut itaque nam velit, perspiciatis, sed ad suscipit cum laborum commodi asperiores molestias in ex laboriosam temporibus soluta dolore necessitatibus veritatis.</p>
+							<p><a href="https://www.apple.com/macbook/design/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<div class="content__item" id="content-2">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook-content-rmbl.jpg" alt="iMac Content" />
 						<div class="content__item-inner">
-							<h2>The iMac</h2>
-							<h3>Engineered to the very last detail</h3>
-							<p>Every new Mac comes with Photos, iMovie, GarageBand, Pages, Numbers, and Keynote. So you can be creative with your photos, videos, music, documents, spreadsheets, and presentations right from the start. You also get great apps for email, surfing the web, sending texts, and making FaceTime calls — there’s even an app for finding new apps.</p>
-							<p><a href="https://www.apple.com/imac/built-in-apps/">Learn more about the iMac's features &xrarr;</a></p>
+							<h2>Lorem ipsum.</h2>
+							<h3>Lorem ipsum dolor sit.</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, nostrum cumque quaerat vel neque! Tempore iure accusantium vel illum molestiae consectetur, rerum, maiores voluptate unde, in similique, nulla fugiat explicabo!</p>
+							<p><a href="https://www.apple.com/imac/built-in-apps/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<div class="content__item" id="content-1">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac-content-bootstrap.jpg" alt="Apple Watch Content" />
 						<div class="content__item-inner">
-							<h2>The Apple Watch</h2>
-							<h3>Entirely new ways to stay in touch</h3>
-							<p>Apple Watch makes all the ways you're used to communicating more convenient. And because it sits right on your wrist, it can add a physical dimension to alerts and notifications. For example, you’ll feel a gentle tap with each incoming message. Apple Watch also lets you connect with your favorite people in fun, spontaneous ways — like sending a tap, a sketch, or even your heartbeat. </p>
-							<p><a href="https://www.apple.com/watch/new-ways-to-connect/">Learn more about new ways to connect &xrarr;</a></p>
+							<h2>Lorem ipsum.</h2>
+							<h3>Lorem ipsum dolor sit.</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eaque nesciunt nisi enim nemo, laudantium nihil excepturi magni iure amet provident sapiente aspernatur, obcaecati deleniti ab ratione repellat nostrum accusantium.</p>
+							<p><a href="https://www.apple.com/watch/new-ways-to-connect/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<div class="content__item" id="content-4">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad-content-jags2.jpg" alt="Apple Watch Content" />
 						<div class="content__item-inner">
-							<h2>The Apple Watch</h2>
-							<h3>Entirely new ways to stay in touch</h3>
-							<p>Apple Watch makes all the ways you're used to communicating more convenient. And because it sits right on your wrist, it can add a physical dimension to alerts and notifications. For example, you’ll feel a gentle tap with each incoming message. Apple Watch also lets you connect with your favorite people in fun, spontaneous ways — like sending a tap, a sketch, or even your heartbeat. </p>
-							<p><a href="https://www.apple.com/watch/new-ways-to-connect/">Learn more about new ways to connect &xrarr;</a></p>
+							<h2>Lorem ipsum.</h2>
+							<h3>Lorem ipsum dolor sit.</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis exercitationem vitae placeat. Aperiam nemo accusamus laboriosam nobis velit, vitae ab reiciendis cum distinctio, consequuntur tenetur odio expedita ipsum autem eligendi.</p>
+							<p><a href="https://www.apple.com/watch/new-ways-to-connect/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<button class="slider-button slider-button--close"><i class="slider-icon icon--circle-cross"></i><span class="text-hidden">Close content</span></button>
