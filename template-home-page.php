@@ -17,3 +17,7 @@ Template Name: Home Page
 
 <?php get_footer(); ?>
 
+<script type="text/javascript">
+
+</script>
+

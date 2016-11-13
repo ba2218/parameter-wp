@@ -1,5 +1,5 @@
 		<!-- KICK ASS SLIDER -->
-		<div class="container">
+		<div class="container" id="sliderContainer">
 			<!-- Grid -->
 			<section class="classy-slider">
 				<div class="slide slide--current" data-content="content-1">
