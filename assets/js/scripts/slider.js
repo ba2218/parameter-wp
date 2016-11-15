@@ -196,8 +196,9 @@ if ( typeof define === 'function' && define.amd ) {
 
     var container = document.getElementById('sliderContainer') 
     var hammertime = new Hammer(container);
-    hammertime.on('swiperight', function() { navigate('right'); });
-    hammertime.on('swipeleft', function() { navigate('left'); });
+    hammertime.on('swipeleft', function() { navigate('right'); });
+    hammertime.on('swiperight', function() { navigate('left'); });
+    hammertime.on('tap', function() {openItem(items[current]);});
 		// window resize
 		window.addEventListener('resize', throttle(function(ev) {
 			// reset window sizes
