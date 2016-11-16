@@ -101,8 +101,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -115,8 +115,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -129,8 +129,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -143,8 +143,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -157,8 +157,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -171,8 +171,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -185,8 +185,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -199,8 +199,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-full medium-6 columns">
-				<img width="75%"« src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-10 medium-6 large-4 columns gallery-image end">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>

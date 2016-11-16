@@ -1178,6 +1178,9 @@ i.icon--arrow-left:before {
     -webkit-transform: translateY(5px);
     transform: translateY(5px);
 }
+div.gallery-image {
+	float: left;
+}
 
 
 /* Media Queries */
@@ -1248,23 +1251,29 @@ i.icon--arrow-left:before {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(255, 204, 0, 0.9);
+    background: rgba(255, 204, 0, 1);
     z-index: 9999;
+    color: #685884;
 }
 
 
 /* Overlay closing cross */
 
 .overlay .overlay-close {
-    width: 80px;
-    height: 80px;
-    position: absolute;
-    right: 20px;
+    // width: 80px;
+    // height: 80px;
+    // position: absolute;
+    // right: 20px;
     top: 20px;
+    position: relative;
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin: -10px 20px 0 0;
     overflow: hidden;
     border: none;
     background: url(http://tympanus.net/Development/FullscreenOverlayStyles/img/cross.png) no-repeat center center;
-    text-indent: 200%;
+    // text-indent: 200%;
     color: transparent;
     outline: none;
     z-index: 100;
