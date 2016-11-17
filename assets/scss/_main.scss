@@ -487,6 +487,15 @@ PLUGIN STYLES
 ZOOM SLIDER STYLES
 *********************/
 
+div#sliderMask {
+    height: 520px;
+    display: block;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
 .container {
     position: relative;
     overflow: hidden;

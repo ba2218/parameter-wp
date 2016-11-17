@@ -1,4 +1,5 @@
 		<!-- KICK ASS SLIDER -->
+		<div id="sliderMask"></div>
 		<div class="container" id="sliderContainer">
 			<!-- Grid -->
 			<section class="classy-slider">
@@ -77,7 +78,7 @@
 						</div>
 					</div> -->
 					<div class="content__item" id="content-3">
-						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook-content-jags.jpg" alt="MacBook Content" />
+						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/dash/dash.gif" alt="MacBook Content" />
 						<div class="content__item-inner">
 							<h2>Lorem ipsum.</h2>
 							<h3>Lorem ipsum dolor sit.</h3>
@@ -86,7 +87,7 @@
 						</div>
 					</div>
 					<div class="content__item" id="content-2">
-						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/macbook-content-rmbl.jpg" alt="iMac Content" />
+						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/rmbl/rmbl.gif" alt="iMac Content" />
 						<div class="content__item-inner">
 							<h2>Lorem ipsum.</h2>
 							<h3>Lorem ipsum dolor sit.</h3>
@@ -95,7 +96,7 @@
 						</div>
 					</div>
 					<div class="content__item" id="content-1">
-						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/imac-content-bootstrap.jpg" alt="Apple Watch Content" />
+						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/bootstrap/bootstrap.gif" alt="Apple Watch Content" />
 						<div class="content__item-inner">
 							<h2>Lorem ipsum.</h2>
 							<h3>Lorem ipsum dolor sit.</h3>
@@ -104,7 +105,7 @@
 						</div>
 					</div>
 					<div class="content__item" id="content-4">
-						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/slider/ipad-content-jags2.jpg" alt="Apple Watch Content" />
+						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/pinball/pinball.gif" alt="Apple Watch Content" />
 						<div class="content__item-inner">
 							<h2>Lorem ipsum.</h2>
 							<h3>Lorem ipsum dolor sit.</h3>

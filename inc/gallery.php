@@ -2,6 +2,17 @@
 
 <div class="gallery-container">
 	<section id="gallery-grid" class="gallery-grid clearfix">
+		<a href="#" class="trigger-overlay" data-overlay="layer0" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
+			<figure class="gallery-figure">
+				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-jags2.jpg" />
+				<svg viewBox="0 0 180 320" preserveAspectRatio="none"><path d="M 0 0 L 0 182 L 90 126.5 L 180 182 L 180 0 L 0 0 z "/></svg>
+				<figcaption>
+					<h2>River City Rollers</h2>
+					<p>Jacksonville Jaguars</p>
+					<button class="gallery-button">View</button>
+				</figcaption>
+			</figure>
+		</a>
 		<a href="#" class="trigger-overlay" data-overlay="layer1" data-path-hover="M 0,0 0,38 90,58 180.5,38 180,0 z">
 			<figure class="gallery-figure">
 				<img src="<?php echo get_template_directory_uri() ?>/assets/images/gallery/gallery-thumb-jags.jpg" />
@@ -93,7 +104,7 @@
 	</section>
 </div><!-- /container -->
 
-<div class="overlay overlay-hugeinc" id="layer1">
+<div class="overlay overlay-hugeinc" id="layer0">
 	<button type="button" class="overlay-close">Close</button>
 <div class="wrap">
 		<div class="row">
@@ -102,7 +113,21 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
-				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/pinball/pinball.gif" alt="" class="gallery-content-image">
+			</div>
+		</div>
+	</div>
+					</div>
+<div class="overlay overlay-hugeinc" id="layer1">
+	<button type="button" class="overlay-close">Close</button>
+<div class="wrap">
+		<div class="row">
+			<div class="small-full medium-6 columns">
+				<h2>Lorem ipsum dolor.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+			</div>
+			<div class="small-12 medium-10 large-12 columns gallery-image end">
+				<img width="100%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/dash/dash.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -130,7 +155,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
-				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/pc/pc.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -171,8 +196,8 @@
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
-			<div class="small-10 medium-6 large-4 columns gallery-image end">
-				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+			<div class="small-12 medium-10 large-12 columns gallery-image end">
+				<img width="100%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/platformer/platformer.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -186,7 +211,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
-				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/fbnyc/fbnyc.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -200,7 +225,7 @@
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
-				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/boden/boden.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>

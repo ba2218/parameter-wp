@@ -194,7 +194,7 @@ if ( typeof define === 'function' && define.amd ) {
 		navRightCtrl.addEventListener('click', function() { navigate('right'); });
 		navLeftCtrl.addEventListener('click', function() { navigate('left'); });
 
-    var container = document.getElementById('sliderContainer') 
+    var container = document.getElementById('sliderMask'); 
     var hammertime = new Hammer(container);
     hammertime.on('swipeleft', function() { navigate('right'); });
     hammertime.on('swiperight', function() { navigate('left'); });
