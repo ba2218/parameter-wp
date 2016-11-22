@@ -111,7 +111,7 @@
 			<div class="small-full medium-6 columns">
 				<h1>River City Rollers</h1>
 				<h2>Jacksonville Jaguars</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<p>HTML Canvas pinball game created for Jacksonville Jaguars NFL franchise. Asset optimization was allso pretty important in this game as weel as age verification in order to leverage Bud Lite branding for adults. Created with HTML, CSS, JS & Construct 2. </p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
 				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/pinball/pinball.gif" alt="" class="gallery-content-image">
@@ -126,7 +126,7 @@
 			<div class="small-full medium-6 columns">
 				<h1>Duval Dash</h1>
 				<h2>Jacksonville Jaguars</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<p>HTML Canvas platformer created for JAG's NFL franchise. Created using Construct 2, HTML, CSS & JS. Asset optimization was super important here as the game needed to run smoothly on most mobile devices.</p>
 			</div>
 			<div class="small-12 medium-10 large-12 columns gallery-image end">
 				<img width="100%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/dash/dash.gif" alt="" class="gallery-content-image">
@@ -141,7 +141,8 @@
 			<div class="small-full medium-6 columns">
 				<h1>Stomp and Chomp</h1>
 				<h2>Hasbro/Transformers</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<p>This OLA was as graphics intensive as it was code intensive requiring a lot of separate moving parts codewise but also capitalizing on Flash's ability to nest movieclips for added complexity. Created for Hasbro's line of life-size transformer toys. This was built with AS3 and vector graphics as well as the GSAP animation library.
+</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
 				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
@@ -156,7 +157,7 @@
 			<div class="small-full medium-6 columns">
 				<h1>PC Summer</h1>
 				<h2>Pretzel Crisps</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<p>OLA developed for Pretzel Crisps summer 2013 campaign using AS3 and vector graphics. An important thing i always like to note is that all my OLA is 100% Object Oriented to capitalize on file size optimisation (amongst other things).</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
 				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/pc/pc.gif" alt="" class="gallery-content-image">
@@ -171,10 +172,10 @@
 			<div class="small-full medium-6 columns">
 				<h1>Runmoreburnless.com</h1>
 				<h2>Banana Boat</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<p>Banana Boat responsive suncreen microsite with focus on runners. Featured a location specific UV index reader estimating burn time based on skin tone. Developed with a LAMP stack using HTML, JS, Wordpress, Foundation, Sass & Grunt.</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
-				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
+				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/rmbl/rmbl.gif" alt="" class="gallery-content-image">
 			</div>
 		</div>
 	</div>
@@ -184,9 +185,9 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h1></h1>
-				<h2>Lorem ipsum dolor.</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<h1>Stomp and Chomp</h1>
+				<h2>Hasbro/Transformers</h2>
+				<p>This OLA was as graphics intensive as it was code intensive requiring a lot of separate moving parts codewise but also capitalizing on Flash's ability to nest movieclips for added complexity. Created for Hasbro's line of life-size transformer toys. This was built with AS3 and vector graphics as well as the GSAP animation library.</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
 				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/transformers/transformers.gif" alt="" class="gallery-content-image">
@@ -199,9 +200,9 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h1></h1>
-				<h2>Lorem ipsum dolor.</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<h1>Platformer</h1>
+				<h2>Flavortron Labs</h2>
+				<p>This OLA was as graphics intensive as it was code intensive requiring a lot of separate moving parts codewise but also capitalizing on Flash's ability to nest movieclips for added complexity. Created for Hasbro's line of life-size transformer toys. This was built with AS3 and vector graphics as well as the GSAP animation library.</p>
 			</div>
 			<div class="small-12 medium-10 large-12 columns gallery-image end">
 				<img width="100%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/platformer/platformer.gif" alt="" class="gallery-content-image">
@@ -214,9 +215,9 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h1></h1>
-				<h2>Lorem ipsum dolor.</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<h1>Choose One Thing</h1>
+				<h2>FBNYC</h2>
+				<p>This Actionscript 3 touchscreen game was developed for the Food Bank of NYC. This project was also quite interactive as the game was displayed ona touch screeen tv mounted on a food truck touring NYC. This project was build on AS3 and XML.</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
 				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/fbnyc/fbnyc.gif" alt="" class="gallery-content-image">
@@ -229,9 +230,9 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h1></h1>
-				<h2>Lorem ipsum dolor.</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
+				<h1>Mini Octopus</h1>
+				<h2>Boden</h2>
+				<p>OLA developed for Boden fall 2013 campaign. Animating the diver was a whole lof of fun. This was built with AS3 and vector graphics as well as the GSAP animation library.</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
 				<img width="75%" src="<?php echo get_template_directory_uri() ?>/assets/images/projects/boden/boden.gif" alt="" class="gallery-content-image">

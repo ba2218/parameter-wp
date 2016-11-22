@@ -80,37 +80,37 @@
 					<div class="content__item" id="content-3">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/dash/dash.gif" alt="MacBook Content" />
 						<div class="content__item-inner">
-							<h2>Lorem ipsum.</h2>
-							<h3>Lorem ipsum dolor sit.</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt aut itaque nam velit, perspiciatis, sed ad suscipit cum laborum commodi asperiores molestias in ex laboriosam temporibus soluta dolore necessitatibus veritatis.</p>
-							<p><a href="https://www.apple.com/macbook/design/">Learn More &xrarr;</a></p>
+							<h2>Duval Dash</h2>
+							<h3>Jacksonville  Jaguars</h3>
+							<p>HTML Canvas platformer created for JAG's NFL franchise. Created using Construct 2, HTML, CSS & JS. Asset optimization was super important here as the game needed to run smoothly on most mobile devices.</p>
+							<p><a href="http://arcade.jaguars.com/DuvalDash/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<div class="content__item" id="content-2">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/rmbl/rmbl.gif" alt="iMac Content" />
 						<div class="content__item-inner">
-							<h2>Lorem ipsum.</h2>
-							<h3>Lorem ipsum dolor sit.</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, nostrum cumque quaerat vel neque! Tempore iure accusantium vel illum molestiae consectetur, rerum, maiores voluptate unde, in similique, nulla fugiat explicabo!</p>
-							<p><a href="https://www.apple.com/imac/built-in-apps/">Learn More &xrarr;</a></p>
+							<h2>Runmoreburnless.com</h2>
+							<h3>Banana Boat</h3>
+							<p>Banana Boat responsive suncreen microsite with focus on runners. Featured a location specific UV index reader estimating burn time based on skin tone. Developed with a LAMP stack using HTML, JS, Wordpress, Foundation, Sass & Grunt.</p>
+							<p><a href="https://runmoreburnless.com/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<div class="content__item" id="content-1">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/bootstrap/bootstrap.gif" alt="Apple Watch Content" />
 						<div class="content__item-inner">
-							<h2>Lorem ipsum.</h2>
-							<h3>Lorem ipsum dolor sit.</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem eaque nesciunt nisi enim nemo, laudantium nihil excepturi magni iure amet provident sapiente aspernatur, obcaecati deleniti ab ratione repellat nostrum accusantium.</p>
-							<p><a href="https://www.apple.com/watch/new-ways-to-connect/">Learn More &xrarr;</a></p>
+							<h2>Bootstrapcompost.com</h2>
+							<h3>Bootstrap Compost</h3>
+							<p>Website redesign for local Boston composting company. Features residental, office & food service signup as well educational information on composting. Developed with a LAMP stack using HTML, JS, Wordpress, Foundation6, Sass & Grunt.</p>
+							<p><a href="http://www.bootstrapcompost.com/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<div class="content__item" id="content-4">
 						<img class="content__item-img rounded-right" src="<?php echo get_template_directory_uri(); ?>/assets/images/projects/pinball/pinball.gif" alt="Apple Watch Content" />
 						<div class="content__item-inner">
-							<h2>Lorem ipsum.</h2>
-							<h3>Lorem ipsum dolor sit.</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis exercitationem vitae placeat. Aperiam nemo accusamus laboriosam nobis velit, vitae ab reiciendis cum distinctio, consequuntur tenetur odio expedita ipsum autem eligendi.</p>
-							<p><a href="https://www.apple.com/watch/new-ways-to-connect/">Learn More &xrarr;</a></p>
+							<h2>River City Rollers</h2>
+							<h3>Jacksonville Jaguars</h3>
+							<p>HTML Canvas pinball game created for Jacksonville Jaguars NFL franchise. Asset optimization was allso pretty important in this game as weel as age verification in order to leverage Bud Lite branding for adults. Created with HTML, CSS, JS & Construct 2. </p>
+							<p><a href="http://arcade.jaguars.com/RiverCityRollers/">Learn More &xrarr;</a></p>
 						</div>
 					</div>
 					<button class="slider-button slider-button--close"><i class="slider-icon icon--circle-cross"></i><span class="text-hidden">Close content</span></button>
