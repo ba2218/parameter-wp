@@ -109,7 +109,8 @@
 <div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h2>Lorem ipsum dolor.</h2>
+				<h1>River City Rollers</h1>
+				<h2>Jacksonville Jaguars</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
@@ -123,7 +124,8 @@
 <div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h2>Lorem ipsum dolor.</h2>
+				<h1>Duval Dash</h1>
+				<h2>Jacksonville Jaguars</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-12 medium-10 large-12 columns gallery-image end">
@@ -137,7 +139,8 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h2>Lorem ipsum dolor.</h2>
+				<h1>Stomp and Chomp</h1>
+				<h2>Hasbro/Transformers</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
@@ -151,7 +154,8 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h2>Lorem ipsum dolor.</h2>
+				<h1>PC Summer</h1>
+				<h2>Pretzel Crisps</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
@@ -165,7 +169,8 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
-				<h2>Lorem ipsum dolor.</h2>
+				<h1>Runmoreburnless.com</h1>
+				<h2>Banana Boat</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
 			<div class="small-10 medium-6 large-4 columns gallery-image end">
@@ -179,6 +184,7 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
+				<h1></h1>
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
@@ -193,6 +199,7 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
+				<h1></h1>
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
@@ -207,6 +214,7 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
+				<h1></h1>
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>
@@ -221,6 +229,7 @@
 	<div class="wrap">
 		<div class="row">
 			<div class="small-full medium-6 columns">
+				<h1></h1>
 				<h2>Lorem ipsum dolor.</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos vero reprehenderit, at atque dolor quis. Natus, magnam veritatis animi eveniet dolore cum quasi mollitia, consequuntur dolorum nulla repellat minus sint!</p>
 			</div>

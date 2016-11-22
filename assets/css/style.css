@@ -4756,6 +4756,9 @@ i.icon--arrow-left:before {
 div.gallery-image {
   float: left; }
 
+div.gallery-image img {
+  border-radius: 15px; }
+
 /* Media Queries */
 /* Let's redefine the width of each anchor and the margins */
 @media screen and (max-width: 58em) {
